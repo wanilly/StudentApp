@@ -31,6 +31,8 @@ public class Main {
 		al.add(s10);
 		Student s11 = new Student(111, "Adam", 29);
 		al.add(s11);
+		Student s12 = new Student(111, "Adam", 29);
+		al.add(s12);
 		
 		
 		Collections.sort(al);
